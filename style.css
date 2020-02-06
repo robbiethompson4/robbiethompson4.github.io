@@ -1,6 +1,4 @@
 body {
-.simple-linear {
-  background: linear-gradient(#483D8B, #BA55D3);
-}
+  background-color: #483D8B
 }
     #nav-table {width:800px}
