@@ -1,5 +1,6 @@
 body {
   background-image: url("backgroundcsc.jpg");
   background-color: #cccccc;
+  background-repeat: no-repeat;
 }
     #nav-table {width:800px}
