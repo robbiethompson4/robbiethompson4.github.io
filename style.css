@@ -1,5 +1,6 @@
 body {
-  background: url("backgroundcsc.jpg");
-  background-color: #cccccc;
+  #grad {
+  background-image: linear-gradient(#191970, #BA55D3);
+}
 }
     #nav-table {width:800px}
