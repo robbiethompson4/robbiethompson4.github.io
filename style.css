@@ -1,6 +1,6 @@
 body {
-  #grad {
-  background-color: linear-gradient(#191970, #BA55D3);
+.simple-linear {
+  background: linear-gradient(#483D8B, #BA55D3);
 }
 }
     #nav-table {width:800px}
