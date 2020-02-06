@@ -2,3 +2,7 @@ body {
   background-color: #E6E6FA
 }
     #nav-table {width:800px}
+div {
+   word-wrap: break-word;
+   width: 800px;
+}
